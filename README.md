@@ -1,2 +1,7 @@
-# demo-estudio-juridico-v-s
-Demo web para Estudio Jurídico V&amp;S — diseñada por eterlab.
+# Estudio Jurídico V&S
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
